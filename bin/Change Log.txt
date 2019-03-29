@@ -1,0 +1,51 @@
+Plane Fury 1.2
+
+New Features:
+
+	- Improved Command Access
+		- Organised Menu
+		- Fancy Icons
+	- Full Screen Mode
+		- F11 Key Shortcut to toggle Full Screen Mode
+	- Levelled Game
+		- Allows specific upgrades to the plane
+			- Laser Damage – How much damage each laser
+			  does
+			- Laser Speed – How fast the laser modes
+			- Rate Of Fire – The frequency of lasers fired
+			- Max Health – The maximum storage of health
+			  points to keep the plane alive
+			- Regenerate Health – Heals the plane when the
+			  game is played
+		- Open and Save to allow continuous progress
+		- Even bigger high-scores – Total Score adds up scores
+		  of all completed levels
+	- Pausing and Resuming Games – Pause the game by right-clicking
+	  or pressing the P Key
+	- Options
+		- Allows specific customisation of colours
+
+Bug Fixes:
+
+	- Lasers no longer disappear after enemies gets destroyed
+	  off-screen on the right
+
+Plane Fury 1.1
+
+Bug Fixes
+
+	- Score does not increase when player has died and the remaining lasers 	  destroy enemies
+
+New Features
+
+	- Better balance of damage for each enemy plane
+	- Soft glow of “Game Over”
+	- Increased performance of generation of enemies’ planes
+	- New Power Ups to enhance plane and make gameplay longer
+	- Laser damage can be seen by the laser lines’ thickness
+	- There is now a faster explosion animation
+	- Critical plane damage display red glow
+
+Plane Fury 1.0
+
+	- Initial Release

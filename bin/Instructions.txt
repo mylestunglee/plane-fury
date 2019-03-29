@@ -1,0 +1,89 @@
+Instructions for Plane Fury
+
+The Game
+
+	The aim of the game is to destroy as many enemy planes as
+	you can. Enemy planes shoot out laser beams which will
+	damage your plane so don’t touch them. Otherwise your plane
+	will crash and it will be game over.
+
+The Controls
+
+	Either use the mouse to directly guide your plane or use the
+	WASD key controls to move the plane in their corresponding
+	direction.
+		W – Move up
+		A – Move left
+		S – Move down
+		D – Move right
+		P - Pauses/Resumes the game		
+
+The HUD
+
+	The number in the bottom-left of the screen is the score.
+	Every time you kill an enemy plane, you gain three points.
+	If you simply just dodge the plane you will get one point.
+	Consistently dodging planes is for idiots and it is a waste
+	of time. In the bottom-right of the screen is how much
+	health your plane has. When it is green, there is little or
+	no damage on your plane. This is an indicator for how well
+	you are doing in the game.
+
+The Menu
+
+	File -> New Survival: Starts a classic game of Plane Fury.
+	File -> New Levelled: Starts a game which allows upgrades
+		for the plane and progressively makes the game
+		difficult depending on number of games 	completed.
+		This mode of gameplay is very tough.
+	File -> Open Levelled: Resume a saved levelled game.
+	File -> Exit: Closes Plane Fury.
+	Options -> Full Screen: Toggles full screen mode. Full
+		   screen mode is used for the best gaming experience.
+	Help -> Instructions: Shows this text
+	Help -> About: Displays technical information about Plane Fury.
+
+The Enemy Planes
+
+	The Yellow Planes – The Sprayers
+
+		These planes shoots out two streams of lasers which
+		make them difficult to take down without taking any
+		damage as they have their weak spots covered. However,
+		the lasers they fire are weak and do not do much harm.
+
+	The Orange Planes – The Smashers
+
+		The smashers fire fairly powerful lasers. Unlike the
+		sprayers, there is only one stream of lasers. What
+		makes them hard is that it is tough to move pass the
+		line of bullets.
+
+	The Red Planes – The Strikers
+
+		These planes do the most damage, three lasers and your
+		plane is down. It is strongly recommended that you
+		avoid the red lasers even if there are other planes.
+		The downside with these planes they shoot very
+		infrequently meaning the lasers aren’t too painful to
+		dodge.
+
+The Power Ups
+
+	Health
+
+		This power up looks like a plus and heals completely
+		your plane.
+
+	Speed
+
+		This power up is represented by a arrow pointing to
+		the rightand it increases how fast your lasers can
+		move.
+
+	Damage
+
+		This power up can be seen by a lightening icon. It
+		doubles the amount of damage each laser your plane
+		can do.
+
